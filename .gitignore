@@ -1,0 +1,6 @@
+resources/video/20230510_154330.mp4
+build*
+expert_module/CMakeLists.txt.user
+operator_module/CMakeLists.txt.user
+mongo-docker/data/
+
